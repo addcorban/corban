@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+--------------------------------------
+<item>
+<title>           [B][COLOR yellow]KODIHESAN_1[/COLOR][COLOR deepskyblue]   ADDON_2[/COLOR][COLOR red]   CORBAN_3[/COLOR][/B] </title>
+<h1>titulo prueba </h1>
+<link>http://ignora.me</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>           [B][COLOR yellow]NO TE OLVIDES DE[/COLOR][COLOR deepskyblue]   SUBSCRIBER[/COLOR][COLOR white]  A MI CANAL[/COLOR][/B] </title>
+<link>http://ignora.me</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>           [B][COLOR red]http://[/COLOR][COLOR lime]www.youtube.com/channel/UCVSis9rZh-uoez95EZYJSIA?view_as=subscriber[/COLOR][COLOR white]kodi[/COLOR][/B] </title>
+<link>http://ignora.me</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>           [B][COLOR red]ENTRA AQUI[/COLOR][COLOR lime] Y[/COLOR][COLOR white] DISFRUTA [/COLOR][/B] </title>
+<link>http://ignora.me</link>
+<externallink>http://legionworldtv.com/secure/goldenmain.txt
+</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
  
 <item>
 <title>corban</title>
